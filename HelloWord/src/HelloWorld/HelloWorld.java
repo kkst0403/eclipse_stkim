@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("hello world");
 		System.out.println("Kim seung tae");
 		System.out.println("20192732");
+		System.out.println("Computer software Engineering");
+
 	}
 
 }
